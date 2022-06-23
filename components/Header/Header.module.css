@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 7px;
+  background: grey;
+}
+
+.logo {
+  font-size: 2rem;
+  color: #18b8da;
+  font-weight: bold;
+}
+
+.searchInp {
+  font-size: 1.2rem;
+  border: 0;
+  border-radius: 7px;
+  width: 87%;
+  color: grey;
+  background-color: rgb(46, 46, 46);
+  outline: 0;
+  padding: 5px;
+}
+
+.searchButton {
+  background: transparent;
+  font-size: 1.2rem;
+  padding: 5px;
+  border: 0;
+}
